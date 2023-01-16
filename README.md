@@ -8,5 +8,5 @@
 
 ## 💡 Solution
 |번호|문제 출처|풀이|
-|------|---|---|
+|:---:|---|---|
 |0|[H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|[H-index.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/H-index.swift)|
