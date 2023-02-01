@@ -15,4 +15,4 @@
 |3|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|[Rotate-Bracket.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Rotate-Bracket.swift)|
 |4|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[Tuple.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Tuple.swift)|
 |5|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|[Feature-Implement.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Feature-Implement.swift)|
-|6|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|[Feature-Implement.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Slice-Array.swift)|
+|6|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|[Slice-Array.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Slice-Array.swift)|
