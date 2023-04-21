@@ -19,6 +19,7 @@ func solution(_ arr1:[[Int]], _ arr2:[[Int]]) -> [[Int]] {
     /// 1. arr1 행렬을 순차적으로 가져온다.
     return arr1.enumerated().map { index, rows in
         /// 2. arr2 행렬 행의 인덱스를 순차적으로 가져온다.
+        /// 첫번째 열의 길이를 순회하면 된다.
         return arr2[0].indices.map { row -> Int in
             /// 3. arr1 행렬의 값과 arr2 행렬의 값을 순차적으로 곱한다.
             /// $1 = arr1 행렬 행의 값
