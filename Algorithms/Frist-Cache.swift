@@ -38,7 +38,7 @@ func solution(_ cacheSize:Int, _ cities:[String]) -> Int {
             
             /// 아이템을 추가 했을 때 사이즈를 초과하면
             /// 캐시 메모리에서 가장 오래 참조하지 않은 아이템을 삭제한다.
-            /// 가자 오래 참조하지 않은 아이템은 배열의 가장 앞에 존재한다.
+            /// 가장 오래 참조하지 않은 아이템은 배열의 가장 앞에 존재한다.
             if cache.count > cacheSize {
                 cache.remove(at: 0)
             }
