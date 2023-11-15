@@ -23,7 +23,7 @@ func solution(_ arr1:[[Int]], _ arr2:[[Int]]) -> [[Int]] {
         return arr2[0].indices.map { row -> Int in
             /// 3. arr1 행렬의 값과 arr2 행렬의 값을 순차적으로 곱한다.
             /// $1 = arr1 행렬 행의 값
-            /// $0 = arr2 행렬 열의 인덱스
+            /// $0 = arr2 행렬 행의 인덱스
             return rows.enumerated()
                 .map { $1 * arr2[$0][row] }
                 /// 4. 곱한 값들을 모두 더해준다.
