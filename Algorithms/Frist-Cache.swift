@@ -16,7 +16,7 @@ func solution(_ cacheSize:Int, _ cities:[String]) -> Int {
     var cache: [String] = []
     var result: Int = 0
     
-    cities.forEach { city in
+    for city in cities {
         /// 도시의 이름을 대소문자 구별하지 않기 위해
         /// 모두 대문자로 일괄 변경시킨다.
         let item = city.uppercased()
@@ -42,7 +42,7 @@ func solution(_ cacheSize:Int, _ cities:[String]) -> Int {
             if cache.count > cacheSize {
                 cache.remove(at: 0)
             }
-        }       
+        } 
     }
     
     return result
