@@ -20,3 +20,4 @@
 |8|[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[Process.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Process.swift)|
 |9|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|[Truck.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Truck.swift)|
 |10|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|[Disk.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Disk.swift)|
+|11|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|[Double-Priority.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Double-Priority.swift)|
