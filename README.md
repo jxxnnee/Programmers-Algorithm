@@ -23,5 +23,5 @@
 |11|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|[Double-Priority.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Double-Priority.swift)|
 |12|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[Correct-Bracket.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Correct-Bracket.swift)|
 |13|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[Parallel.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Parallel.swift)|
-|13|[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)|[Overlapping.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Overlapping.swift)|
-|14|[안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|[SafeArea.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/SafeArea.swift)|
+|14|[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)|[Overlapping.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Overlapping.swift)|
+|15|[안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|[SafeArea.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/SafeArea.swift)|
