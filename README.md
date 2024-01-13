@@ -30,3 +30,4 @@
 |18|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|[Word-Conv.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Word-Conv.swift)|
 |19|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|[K-th.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/K-th.swift)|
 |20|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[Minimum-Rectagle.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Minimum-Rectagle.swift)|
+|21|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|[Mock-Test.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Mock-Test.swift)|
