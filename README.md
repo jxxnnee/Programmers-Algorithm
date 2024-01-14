@@ -32,3 +32,4 @@
 |20|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[Minimum-Rectagle.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Minimum-Rectagle.swift)|
 |21|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|[Mock-Test.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Mock-Test.swift)|
 |22|[소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[Find-Prime.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Find-Prime.swift)|
+|23|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[Carpet.swift](https://github.com/jxxnnee/Programmers-Algorithm/blob/main/Algorithms/Carpet.swift)|
